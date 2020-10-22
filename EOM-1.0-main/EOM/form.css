@@ -1,0 +1,32 @@
+#body form input, #body form textarea {
+    border: 2px solid #252525;
+    color: #252525;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: normal;
+    margin: 0 0 37px;
+    padding: 20px 10px;
+    text-align: center;
+    text-transform: uppercase;
+    width: 596px;
+    }
+    #body form textarea {
+    height: 175px;
+    overflow: auto;
+    resize: none;
+    }
+    #body form #send {
+    background: #252525;
+    color: #fff;
+    font-family: "Arial Black", Gadget, sans-serif;
+    font-size: 15px;
+    font-weight: normal;
+    display: inline-block;
+    padding: 20px 28px;
+    width: auto;
+    }
+    #body form #send:hover {
+    background: #fff;
+    color: #252525;
+    cursor: pointer;
+    }
